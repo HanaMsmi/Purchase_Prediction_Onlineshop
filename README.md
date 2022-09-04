@@ -1,8 +1,6 @@
-# Purchase_Prediction_Onlineshop
-GRU and Catboost implementation for purchase prediction in an online-shop website using Kaggle dataset
+# Paper name: Predicting online shopping behavior from clickstream data using deep learning
 
-## Predicting online shopping behavior from clickstream data using deep learning
+One RNN (GRU) and one benchmark model (Catboost) from this paper is implemented 
+dataset is downloaded from Kaggle and list of hyper parameters in the paper is used 
 
-One RNN (GRU) and one benchmark model (Catboost) from this paper is implemented
-
-[see paper here](https://www.sciencedirect.com/science/article/abs/pii/S0957417420301676)
+click [here](https://www.sciencedirect.com/science/article/abs/pii/S0957417420301676) to see paper
