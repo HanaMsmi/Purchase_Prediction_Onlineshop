@@ -10,4 +10,5 @@ dataset is downloaded from Kaggle and list of hyper parameters in the paper is u
 - K-fold cross validation
 - Class weight
 - Attention
+- random search
 - ...
